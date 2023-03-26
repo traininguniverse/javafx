@@ -1,1 +1,1 @@
-# javafx
+# JavaFX sample
